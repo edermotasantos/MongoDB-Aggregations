@@ -1,10 +1,17 @@
 # 🗂 MongoDB Aggregations
 
+<!-- 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+-->
+<div> 
+  <a href="https://www.linkedin.com/in/eder-santos-78114521a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <!--  <a href = "mailto:3derms@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
+  <a href = "mailto:eder.mota@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
+</div>
 
 Esse foi o último projeto proposto pela Trybe focado em MongoDB e tem como objetivo colocar em prática os métodos e operadores para executar operações de agregação de dados. Também deve ser utilizados vários datasets, possibilitando praticar em vários cenários os operadores e estágios do aggregation pipeline. Os dados são do IMDB sobre registros de empresas áereas e registros de deslocamentos de pessoas com bicicletas. Para isso é necessário que cumpra os seguintes requisitos:
 - Filtrar filme através de uma `pipeline`, primeiro não especificando os campos que serão exibidos, logo após especificando os campos, depois ordenando de acordo com especificações
