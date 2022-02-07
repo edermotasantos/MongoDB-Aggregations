@@ -32,6 +32,7 @@ Linux:
 `cd MongoDB-Aggregations`
 * Dentro da pasta instale as dependências:
 `npm install`
+* Os requisitos foram feitos dentro da pasta `challenges` cada requisito está em um arquivo com nome `desafion` sendo `n` um número de 1 à 14.
 
 ## 🗂 Usando MongoDB-Aggregations
 
