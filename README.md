@@ -5,6 +5,8 @@
   <a href = "mailto:eder.mota@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
 </div>
 
+# Resumo
+
 Esse foi o último projeto proposto pela Trybe focado em MongoDB e tem como objetivo colocar em prática os métodos e operadores para executar operações de agregação de dados. Também deve ser utilizados vários datasets, possibilitando praticar em vários cenários os operadores e estágios do aggregation pipeline. Os dados são do IMDB sobre registros de empresas áereas e registros de deslocamentos de pessoas com bicicletas. Para isso é necessário que cumpra os seguintes requisitos:
 - Filtrar filme através de uma `pipeline`, primeiro não especificando os campos que serão exibidos, logo após especificando os campos, depois ordenando de acordo com especificações
 - Criar um novo campo e retornar documentos que contém esse novo campo
